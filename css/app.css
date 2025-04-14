@@ -1,0 +1,39 @@
+/* RESET PAGE */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* LAYOUT */
+.container{
+    max-width: 800px;
+    margin: auto;
+}
+
+
+/* STYLE */
+
+.p-20{
+    padding: 26px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.red{
+    color: rgb(235, 94, 94);
+}
+
+/* header */
+
+
+/* main */
+
+/* DEBUG */
+.debug{
+    border: 1px solid;
+}
