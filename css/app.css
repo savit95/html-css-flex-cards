@@ -47,6 +47,10 @@ a{
     background-color: rgb(72, 72, 138);
 }
 
+.white{
+    color: white;
+}
+
 /* header */
 
 
@@ -58,7 +62,7 @@ a{
 }
 
 .row > *{
-    padding: 0 12px;
+    padding: 0 10px;
 }
 
 .card{
